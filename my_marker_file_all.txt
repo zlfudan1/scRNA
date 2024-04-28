@@ -1,0 +1,23 @@
+>CD4+ T cells
+expressed: CD4, CCR7, IL7R, FOXP3, CTLA4
+
+>CD8+ T cells
+expressed: CD8A, CD8B
+
+>B cells
+expressed: CD19, CD79A, MS4A1
+
+>NK cells
+expressed: GNLY, NKG7, KLRD1, FGFBP2
+
+>Myeloid
+expressed: LYZ, CD68, CD163, CD14, C1QA, C1QB, CD86, VSIG4, S100A9, S100A8, IDO1, IDO2, CD1E, CD1C
+
+>Fibroblasts
+expressed: RGS5, TAGLN
+
+>Endothelial cells
+expressed: VWF, PECAM1
+
+>Thyrocytes
+expressed: EPCAM ,TG, CLU, CD24
